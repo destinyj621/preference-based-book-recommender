@@ -1,7 +1,5 @@
 # A Preference-Based and Explainable Book Recommendation System
 
----
-
 ## Overview
 
 This project is a personalized, explainable book recommendation system powered by semantic AI. It goes beyond traditional recommendation approaches by combining semantic embeddings, agentic book discovery, machine learning reranking, and a natural language explainability layer to recommend books that genuinely match what a user likes — and explain *why*.
