@@ -161,11 +161,3 @@ project/
 ## Evaluation
 
 Recommendations are evaluated using **Precision@k** — out of the top 10 recommendations returned, how many would the user actually want to read? The ML-reranked ordering is also compared against cosine-only ordering to demonstrate the reranking layer's contribution.
-
----
-
-## References
-
-1. Jia Liu. 2024. *Design of Book Recommendation System Based on Machine Learning in Smart Library.* IEEE AIARS 2024.
-2. Adli Ihsan Hariadi and Dade Nurjanah. 2017. *Hybrid Attribute and Personality Based Recommender System for Book Recommendation.* IEEE ICoDSE 2017.
-3. Anvi Vats, Yamini Agrawal and Neha Tyagi. 2025. *A Hybrid Book Recommendation System Using Collaborative Filtering and Content-Based Filtering with Neural Embeddings.* IEEE ICCCA 2025.
