@@ -1,7 +1,4 @@
-# 📚 A Preference-Based and Explainable Book Recommendation System
-
-**Destiny Raburnel**
-College of Computing and Software Engineering — Kennesaw State University
+# A Preference-Based and Explainable Book Recommendation System
 
 ---
 
